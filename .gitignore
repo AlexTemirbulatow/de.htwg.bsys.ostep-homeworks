@@ -1,0 +1,33 @@
+*.txt
+!requirements.txt
+
+# compiled files
+*.out
+!**/tests/*.out
+*.o
+*.cgi
+
+# gdb
+*.dSYM
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# emacs files
+*~
+.\#*
+\#*\#
+
+# vmd preview
+*.temp
+
+# Python env
+.venv
+.env
+
+# lame file
+.DS_Store
+
+#vscode
+.metals
+.vscode
