@@ -1,4 +1,4 @@
-# Paging: Smaller Tables
+# 20. Paging: Smaller Tables
 ### <a href="https://github.com/remzi-arpacidusseau/ostep-homework/tree/master/vm-smalltables">paging-multilevel-translate.py</a>
 Some example translations for better virtualization and understanding of Question 2:
 
