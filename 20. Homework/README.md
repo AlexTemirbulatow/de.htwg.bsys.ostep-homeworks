@@ -10,4 +10,4 @@ Some example translations for better virtualization and understanding of Questio
 <br><br>
 
 ### Binary and Decimal example
-<img src="https://github.com/AlexTemirbulatow/de.htwg.bsys.ostep-homeworks/blob/main/20.%20Homework/2-level-page-table-translation.jpg" width="710" height="800"></a>
+<img src="https://github.com/AlexTemirbulatow/de.htwg.bsys.ostep-homeworks/blob/main/20.%20Homework/2-level-page-table-translation.jpg" width="710" height="770"></a>
