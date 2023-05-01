@@ -5,7 +5,7 @@ Some example translations for better virtualization and understanding of Questio
     2. Use the simulator to perform translations given random seeds 0, 1, and 2, 
     and check your answers using the -c flag. How many memory references are needed to perform each lookup?
 #
-### Binary trace example
+### Binary translation trace example
 <img style="vertical-align: top" src="https://github.com/AlexTemirbulatow/de.htwg.bsys.ostep-homeworks/blob/main/20.%20Homework/2multi-level-paging.jpg"></a>
 <br><br>
 
