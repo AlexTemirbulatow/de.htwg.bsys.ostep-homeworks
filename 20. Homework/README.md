@@ -6,7 +6,7 @@ Some example translations for better virtualization and understanding of Questio
     and check your answers using the -c flag. How many memory references are needed to perform each lookup?
 #
 ### Binary example
-<img style="vertical-align: top" src="https://github.com/AlexTemirbulatow/de.htwg.bsys.ostep-homeworks/blob/main/20.%20Homework/multi-level-paging.jpg" width="710" height="550"></a>
+<img style="vertical-align: top" src="https://github.com/AlexTemirbulatow/de.htwg.bsys.ostep-homeworks/blob/main/20.%20Homework/2multi-level-paging.jpg" width="710" height="550"></a>
 <br><br>
 
 ### Binary and Decimal example
